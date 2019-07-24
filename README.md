@@ -4,7 +4,7 @@ A generative adversarial network for generating anime face images
 ## Examples
 36 random samples. [More here](proj/2_pipeline/1_anime_GAN_sampling/out/raw_samples/)
 
-![example](proj/2_pipeline/1_anime_GAN_sampling/out/raw_samples/sample.01.png)
+![example](proj/2_pipeline/1_anime_GAN_sampling/out/raw_samples/sample.04.png)
 
 ### Interpolations
 
